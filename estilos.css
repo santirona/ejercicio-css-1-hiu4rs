@@ -1,0 +1,31 @@
+.container{
+    width: 100%;
+    border: 1px solid gray;
+
+}
+
+#listaArticulos{
+    width:100%;
+    height:100%;
+    margin: 0 auto; 
+}
+
+#tablaArticulos{
+    border-collapse: separate;
+    border-spacing: 90px 30px;
+    width: 90%;
+    height:40px;
+
+}
+
+.imagenArticulo{
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    padding-left: 20px
+}
+
+.datosArticulo{
+    font-size: 0.7em;
+    overflow: hidden;
+}
